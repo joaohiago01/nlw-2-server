@@ -51,7 +51,7 @@ The following tools were used in the construction of the project:
 
 ## :scroll: Pre-Requisites
 
-To clone and run this application, you'll need [Git](https://git-scm.com/), [Yarn](https://yarnpkg.com/) installed on your computer and install the [Expo App](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en_US) on your smartphone.
+To clone and run this application, you'll need [Git](https://git-scm.com/), [Yarn](https://yarnpkg.com/) installed on your computer.
 
 ## :construction_worker: How to use
 
